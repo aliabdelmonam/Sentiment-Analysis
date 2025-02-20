@@ -31,4 +31,4 @@ The dataset consists of labeled movie reviews, where each review is categorized 
 The model achieves **63.4%** accuracy on the test set. 
 
 ## 🔍 Kaggle Competition
-[Kaggle]  (https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/overview)
+[Kaggle link](https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/overview)
